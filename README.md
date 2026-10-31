@@ -51,3 +51,8 @@ Open a pull request with the source URL, the exact change, the date checked, and
 ---
 
 This project is informational and does not provide financial, legal, tax, or security advice.
+
+
+## Explore on Krypto.Watch
+
+Browse the live [crypto exchange directory](https://krypto.watch/exchanges) on [Krypto.Watch](https://krypto.watch/).
