@@ -44,9 +44,9 @@ Open a pull request with the source URL, the exact change, the date checked, and
 ## Related KryptoWatch projects
 
 - [KryptoWatch profile](https://github.com/KryptoWatch)
-- [Crypto swaps directory](https://github.com/KryptoWatch/awesome-crypto-swaps) *(planned)*
-- [Crypto security toolkit](https://github.com/KryptoWatch/crypto-security-toolkit) *(planned)*
-- [Crypto API directory](https://github.com/KryptoWatch/crypto-api-directory) *(planned)*
+- [Crypto swaps directory](https://github.com/KryptoWatch/awesome-crypto-swaps)
+- [Crypto security toolkit](https://github.com/KryptoWatch/crypto-security-toolkit)
+- [Crypto API directory](https://github.com/KryptoWatch/crypto-api-directory)
 
 ---
 
