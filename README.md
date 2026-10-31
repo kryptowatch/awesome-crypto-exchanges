@@ -1,10 +1,22 @@
+<p align="center"><a href="https://krypto.watch"><img src="https://raw.githubusercontent.com/KryptoWatch/awesome-crypto-swaps/main/assets/krypto-watch-logo.svg" width="420" alt="Krypto.Watch — Discover · Compare · Trade"></a></p>
+
+<p align="center"><strong>◉ DISCOVER · COMPARE · TRADE</strong><br>OPEN CRYPTO RESEARCH · BUILT IN THE OPEN</p>
+
+<p align="center"><a href="https://github.com/KryptoWatch/awesome-crypto-exchanges">EXCHANGES</a> · <a href="https://github.com/KryptoWatch/awesome-crypto-swaps">SWAPS</a> · <a href="https://github.com/KryptoWatch/crypto-security-toolkit">SECURITY</a> · <a href="https://github.com/KryptoWatch/crypto-api-directory">DEVELOPER APIs</a> · <a href="https://x.com/KryptodotWatch">𝕏</a></p>
+
+---
+
 # Awesome Crypto Exchanges
+
 
 A community-maintained, source-linked directory for researching centralized cryptocurrency exchanges. It focuses on verifiable product information and makes clear that availability, assets, fees, and legal status vary by location and can change.
 
+
 > Research directory only. Inclusion is not an endorsement, safety certification, or recommendation to trade. Always verify current terms and local requirements directly with the provider and relevant regulator.
 
+
 ## Directory
+
 
 | Exchange | Official information | Notes |
 | --- | --- | --- |
@@ -13,11 +25,15 @@ A community-maintained, source-linked directory for researching centralized cryp
 | [Gemini](https://www.gemini.com/) | [Areas of availability](https://www.gemini.com/areas-of-availability) | Review the page for your jurisdiction and the applicable Gemini entity. |
 | [Kraken](https://www.kraken.com/) | [Licensing and regulation](https://support.kraken.com/articles/where-is-kraken-licensed-or-regulated) | Kraken notes that eligible services and assets may depend on verified residence. |
 
+
 This starter list is intentionally small. Contributions should add exchanges only with current, primary-source documentation and a clear description of what the source actually supports.
+
 
 ## What to compare
 
+
 When the provider publishes the information, record it with a source and a review date:
+
 
 - Official product and legal-entity names; spot, derivatives, broker, or other service type
 - Supported countries or regions, including product-specific limitations
@@ -26,9 +42,12 @@ When the provider publishes the information, record it with a source and a revie
 - KYC/verification requirements and official help or API documentation
 - Security features and incident disclosures, stated without treating claims as guarantees
 
+
 Do not infer regulatory approval from app-store availability, a marketing page, or another jurisdiction's license. Do not describe an exchange as safe, regulated, or available everywhere without precise evidence.
 
+
 ## Inclusion criteria
+
 
 1. Link to the exchange's official website and primary documentation.
 2. Use factual, neutral wording; separate verified facts from community observations.
@@ -36,23 +55,3 @@ Do not infer regulatory approval from app-store availability, a marketing page, 
 4. Add a `Last checked` date to time-sensitive details and revisit stale entries.
 5. Disclose sponsorship, referral relationships, and other conflicts. No paid placement.
 6. Never include referral codes, promotional rankings, or unsupported safety claims.
-
-## Contribute
-
-Open a pull request with the source URL, the exact change, the date checked, and any relevant jurisdiction or product scope. Report broken links or outdated entries in an issue. Do not submit personal account data or private documents.
-
-## Related KryptoWatch projects
-
-- [KryptoWatch profile](https://github.com/KryptoWatch)
-- [Crypto swaps directory](https://github.com/KryptoWatch/awesome-crypto-swaps)
-- [Crypto security toolkit](https://github.com/KryptoWatch/crypto-security-toolkit)
-- [Crypto API directory](https://github.com/KryptoWatch/crypto-api-directory)
-
----
-
-This project is informational and does not provide financial, legal, tax, or security advice.
-
-
-## Explore on Krypto.Watch
-
-Browse the live [crypto exchange directory](https://krypto.watch/exchanges) on [Krypto.Watch](https://krypto.watch/).
